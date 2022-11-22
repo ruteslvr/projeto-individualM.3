@@ -1,0 +1,87 @@
+{
+    "pratos": [
+      {
+        "id": 1,
+        "nome": "Feijoada",
+        "descricao": "Feijão preto,Linguiça calabresa, Costela salgada, Carne suína salgada, Pé salgado, Bacon, Pele suína, farofa da casa.",
+        "preco": 19.99,
+        "foto do prato": "https://segredosdacomida.com.br/wp-content/uploads/2021/09/como-deixar-a-feijoada-bem-preta-1200x900.jpg"
+      },
+      {
+        "id": 2,
+        "nome": "strogonoff",
+        "descricao": "arroz branco, frango com creme rose e batata palha da casa",
+        "preco": 16.99,
+        "foto do prato":"https://img.itdg.com.br/tdg/images/recipes/000/002/462/332854/332854_original.jpg?mode=crop&width=710&height=400"
+
+      },
+      {
+        "id": 3,
+        "nome": "salpicao",
+        "descricao": "abacaxi,uva passa, cenoura ralada, batatas, maionese, frango, palha da casa, arroz branco.",
+        "preco": 22.50,
+        "foto do prato":"https://www.receitasnestle.com.br/sites/default/files/srh_recipes/1a301bdc141409f707e889a04b1cae64.jpg"
+      },
+      {
+        "id": 4,
+        "nome": "lasanha",
+        "descricao": "camadas de massa, queijo, presunto, carne moída e um delicioso arroz branco.",
+        "preco": 17.50,
+        "foto do prato":"https://img.itdg.com.br/tdg/images/recipes/000/000/876/324587/324587_original.jpg?mode=crop&width=710&height=400"
+      }
+    ],
+  
+    "sobremesas": [
+      {
+        "id": 1,
+        "nome": "sorvete",
+        "sabores": "morango, chocolate, flocos, ninho trufado",
+        "preco": "8.70"
+      },
+      {
+        "id": 2,
+        "nome": "mousse",
+        "sabores": "maracuja, morango, limao",
+        "preco": "10.00"
+      },
+    
+      {
+        "id": 3,
+        "nome": "pave",
+        "sabores": "chocolate, limao, morango",
+        "preco": "10.00"
+      },
+      {
+        "id": 4,
+        "nome": "torta",
+        "sabores": "morango, maracuja, limao, chocolate",
+        "preco": "10.00"
+      }
+     
+    ],
+  
+    "bebidas":[
+      {
+        "id": 1,
+        "nome": "coca cola",
+        "preco": "10.00"
+      },
+      {
+        "id": 2,
+        "nome": "agua",
+        "preco": "2.00"
+      },
+    
+      {
+        "id": 3,
+        "nome": "suco de limao",
+        "preco": "7.00"
+      },
+      {
+        "id": 4,
+        "nome": "guarana",
+        "preco": "8.00"
+      }
+     
+    ]
+  }
